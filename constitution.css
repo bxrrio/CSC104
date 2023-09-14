@@ -1,16 +1,13 @@
 body{
-    background-image: url('vintage\ texture.jpg');
-    background-size: cover;
-    height: 100vh;
-    background-position: center;
-    color: black;
+    background-color: blanchedalmond;
+    color:firebrick;
 }
 
 h1{
     font-weight: bold;
     font-size: 30pt;
     font-family: 'Times New Roman', Times, serif;
-    color:black;
+    color:brown;
     text-align: center;
     text-decoration: underline;
     }
